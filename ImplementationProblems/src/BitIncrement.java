@@ -1,3 +1,5 @@
+//Problem Link-https://codeforces.com/contest/282/problem/A
+
 import java.util.Scanner;
 
 public class BitIncrement {
